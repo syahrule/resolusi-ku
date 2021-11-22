@@ -2,3 +2,4 @@ KU RESOLUSI
 - Konsisten coding
 - membuat portofolio
 - belajar tailwind
+- upload semua project yang telah dibuat
